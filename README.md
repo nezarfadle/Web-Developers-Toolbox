@@ -4,16 +4,17 @@
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/downloads/browse/index.cfm?category=benchmarks.os)  
 CIS Security Benchmarks provides cost-effective, consensus-based and internationally recognized solutions that help organizations improve their cyber security and compliance posture.
 
+### Web Caching ###
+
+* [Varnish-Cache](https://www.varnish-cache.org/) - [Youtube Video](https://www.youtube.com/watch?v=x7t2Sp174eI)  
+* [Memcached](http://memcached.org/)  
+
+
 ### Version Control ###
 
 * [Git](https://github.com/username/repo/blob/branch/docs/more_words.md)  
 * [GitHub](https://github.com/)  
 * [Bitbucket](https://bitbucket.org/)   
-
-### Web Caching ###
-
-* [Varnish-Cache](https://www.varnish-cache.org/) - [Youtube Video](https://www.youtube.com/watch?v=x7t2Sp174eI)  
-* [Memcached](http://memcached.org/)  
 
 ### PHP Full Stack Frameworks ###
 
@@ -35,3 +36,6 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 * [Backbone](http://backbonejs.org/)  
 * [CanJS](http://canjs.com/)  
 
+### Essential Tools For Front-end Development ###
+* [Grunt](http://gruntjs.com/)
+* [Yeoman](http://yeoman.io/)
