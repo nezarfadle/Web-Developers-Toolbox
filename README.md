@@ -39,3 +39,8 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 ### Essential Tools For Front-end Development ###
 * [Grunt](http://gruntjs.com/)
 * [Yeoman](http://yeoman.io/)
+
+### Front-End Package Managers ###
+* [NPM](https://www.npmjs.com/)   
+* [Bower](http://bower.io/)   
+
