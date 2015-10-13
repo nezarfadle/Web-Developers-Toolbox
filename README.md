@@ -44,3 +44,5 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 * [NPM](https://www.npmjs.com/)   
 * [Bower](http://bower.io/)   
 
+### Fake REST API Servers ###
+* [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)  
