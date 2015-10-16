@@ -44,5 +44,5 @@ doctrine:
         dbname:   "%database_name%"
         user:     "%database_user%"
         password: "%database_password%"
-        charset:  UTF8MB4 # Support Unicode
+        charset:  UTF8MB4 # Unicode Support
     
