@@ -28,7 +28,7 @@ doctrine:
 ```
 ### Support full Unicode in MySQL databases ###
 
-To save a Unicode Characters like ( ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ € → ) into your database :
+To save a Unicode Characters like this ( ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ € → ) into your database :
 
 1. Set your database Collation as:   
  ``` utf8mb4_unicode_ci ```    
