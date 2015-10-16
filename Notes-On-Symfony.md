@@ -26,3 +26,23 @@ doctrine:
                 alias: UserEntity  # Entity name
                 is_bundle: false
 ```
+### Support full Unicode in MySQL databases ###
+
+1. Set your database Collation as:   
+ ``` utf8mb4_unicode_ci ```    
+2. Set Doctrine charset as:  
+3. ``` UTF8MB4 ```
+
+```
+File: app/confi/config.yml
+
+doctrine:
+    dbal:
+        driver:   pdo_mysql
+        host:     "%database_host%"
+        port:     "%database_port%"
+        dbname:   "%database_name%"
+        user:     "%database_user%"
+        password: "%database_password%"
+        charset:  UTF8MB4 # Support Unicode
+    
