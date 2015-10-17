@@ -50,6 +50,7 @@ doctrine:
 ```
 
 ### Accessing the Container in Symfony2 WebTestCase and retrieve Doctrine Entity Manager ###
+* Solution 1
 ```
 <?php  namespace AppBundle\Todos\IntegrationTest;
 
@@ -68,3 +69,28 @@ class TodoRepositoryIntegrationTest extends WebTestCase
 	
 }
 ```
+* Solution 2
+```
+<?php  namespace AppBundle\Todos\IntegrationTest;
+
+use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
+
+class TodoRepositoryIntegrationTest extends KernelTestCase
+{
+	private $entityManager;
+	public function __construct()
+	{
+		
+		self::bootKernel();
+		$this->entityManager = static::$kernel->getContainer()
+             ->get('doctrine')
+             ->getManager()
+        ;
+	}
+
+	public function tearDown()
+	{
+	    parent::tearDown();
+	    $this->entityManager->close();
+	}
+}
