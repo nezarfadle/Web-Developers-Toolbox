@@ -47,4 +47,24 @@ doctrine:
         user:     "%database_user%"
         password: "%database_password%"
         charset:  UTF8MB4 # Unicode Support
-    
+```
+
+### Accessing the Container in Symfony2 WebTestCase and retrieve Doctrine Entity Manager ###
+```
+<?php  namespace AppBundle\Todos\IntegrationTest;
+
+use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+
+class TodoRepositoryIntegrationTest extends WebTestCase
+{
+	private $entityManager;
+	
+	public function __construct()
+	{
+		static::$kernel = static::createKernel();
+    	static::$kernel->boot();
+		$this->entityManager = static::$kernel->getContainer()->get('doctrine.orm.entity_manager');
+	}
+	
+}
+```
