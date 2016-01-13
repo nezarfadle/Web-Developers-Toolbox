@@ -25,6 +25,12 @@ doctrine:
                 prefix: AppBundle\Users  # Parent Folder
                 alias: UserEntity  # Entity name
                 is_bundle: false
+            ArticleEntity:
+                type: annotation
+                dir: %kernel.root_dir%/../src/ArticlesBoundedContext
+                prefix: ArticlesBoundedContext  # Parent Folder
+                alias: ArticleEntity  # Entity name
+                is_bundle: false
 ```
 ### Support full Unicode in MySQL databases ###
 
