@@ -4,11 +4,16 @@
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/downloads/browse/index.cfm?category=benchmarks.os)  
 CIS Security Benchmarks provides cost-effective, consensus-based and internationally recognized solutions that help organizations improve their cyber security and compliance posture.
 
+### Virtualization Tools ###
+* [Oracle VirtualBox](https://www.virtualbox.org)  
+* [Vagrant](https://www.vagrantup.com/)  
+* [Docker](https://www.docker.com/)  
+* [GNS3](https://www.gns3.com/)  
+
 ### Web Caching ###
 
 * [Varnish-Cache](https://www.varnish-cache.org/) - [Youtube Video](https://www.youtube.com/watch?v=x7t2Sp174eI)  
 * [Memcached](http://memcached.org/)  
-
 
 ### Version Control ###
 
@@ -31,13 +36,17 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 
 ### JavaScript Client Side Frameworks ###
 
-* [Angular](https://angularjs.org/)  
 * [Ember](http://emberjs.com/)  
+* [Angular](https://angularjs.org/)  
 * [Backbone](http://backbonejs.org/)  
 * [CanJS](http://canjs.com/)  
 
+### JavaScript Libraries ###
+* [jQuery](https://jquery.com/)  
+
 ### Essential Tools For Front-end Development ###
 * [Grunt](http://gruntjs.com/)
+* [Ember-cli](http://ember-cli.com/)
 * [Yeoman](http://yeoman.io/)
 
 ### Front-End Package Managers ###
@@ -46,3 +55,9 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 
 ### Fake REST API Servers ###
 * [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)  
+* [Ember CLI MIRAGE](http://www.ember-cli-mirage.com/)  
+
+### User Interface ###
+* [Semantic UI](http://semantic-ui.com/)  
+* [Bootstrap](http://getbootstrap.com/)  
+* [jQuery UI](https://jqueryui.com/)  
