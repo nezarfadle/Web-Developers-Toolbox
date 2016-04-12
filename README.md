@@ -45,8 +45,9 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 * [jQuery](https://jquery.com/)  
 
 ### Essential Tools For Front-end Development ###
+* [Ember CLI](http://ember-cli.com/)
+* [Ember CLI Mirage](http://www.ember-cli-mirage.com/)
 * [Grunt](http://gruntjs.com/)
-* [Ember-cli](http://ember-cli.com/)
 * [Yeoman](http://yeoman.io/)
 
 ### Front-End Package Managers ###
@@ -55,7 +56,6 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 
 ### Fake REST API Servers ###
 * [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)  
-* [Ember CLI MIRAGE](http://www.ember-cli-mirage.com/)  
 
 ### User Interface ###
 * [Semantic UI](http://semantic-ui.com/)  
