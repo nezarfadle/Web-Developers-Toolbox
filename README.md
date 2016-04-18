@@ -36,6 +36,7 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 
 ### JavaScript Client Side Frameworks ###
 
+* [Vue JS](https://vuejs.org/guide/)  
 * [Ember](http://emberjs.com/)  
 * [Angular](https://angularjs.org/)  
 * [Backbone](http://backbonejs.org/)  
