@@ -37,6 +37,8 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 ### API Documentation  ###
 * [API Description Languages: Which Is The Right One For Me? ( YouTube Video )](https://www.youtube.com/watch?v=BpjZqPBQjvs)  
 * [RAML](http://raml.org/)  
+ * [RAML Version 0.8 Specifications ](https://github.com/raml-org/raml-spec/blob/master/versions/raml-08/raml-08.md)
+ * [RAML Version 1.0 Specification ](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md)
  * [RAML 100 Tutorial](http://raml.org/developers/raml-100-tutorial#step-introduction)
  * [RAML 200 Tutorial](http://raml.org/developers/raml-200-tutorial#step-introduction)
  * [RAML Api-Designer ( Tool )](https://github.com/mulesoft/api-designer)
