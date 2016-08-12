@@ -46,6 +46,7 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
  * [Delight-Driven Development For APIs ( YouTube Video )](https://www.youtube.com/watch?v=_RI5iZgOtis)
  * [RAML RESTful API Modeling Language ( YouTube Video )](https://www.youtube.com/watch?v=5o_nExedezw)
  * [API First: Design First, Prototype First with RAML ( YouTube Video )](https://www.youtube.com/watch?v=Kz2JFANLWOQ)  
+ * [Eliminate Redundancies in RAML with Resource Types and Traits ( Tutorial )](http://www.baeldung.com/simple-raml-with-resource-types-and-traits)
  * [Testing APIs with RAML ( Tutorial )](https://www.sitepoint.com/testing-apis-raml/)
  
 
