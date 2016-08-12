@@ -34,6 +34,20 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 * [Silex](http://silex.sensiolabs.org/)
 * [Silm](http://www.slimframework.com/)  
 
+### API Documentation  ###
+* [RAML](http://raml.org/)  
+ * [RAML 100 Tutorial](http://raml.org/developers/raml-100-tutorial#step-introduction)
+ * [RAML 200 Tutorial](http://raml.org/developers/raml-200-tutorial#step-introduction)
+ * [RAML Api-Designer ( Tool )](https://github.com/mulesoft/api-designer)
+ * [RAML2HTML ( Tool )](https://github.com/raml2html/raml2html)
+ * [Delight-Driven Development For APIs ( YouTube Video )](https://www.youtube.com/watch?v=_RI5iZgOtis)
+ * [RAML RESTful API Modeling Language ( YouTube Video )](https://www.youtube.com/watch?v=5o_nExedezw)
+ 
+
+### Fake REST API Servers ###
+* [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)  
+
+
 ### JavaScript Client Side Frameworks ###
 
 * [Vue JS](https://vuejs.org/guide/)  
@@ -54,9 +68,6 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 ### Front-End Package Managers ###
 * [NPM](https://www.npmjs.com/)   
 * [Bower](http://bower.io/)   
-
-### Fake REST API Servers ###
-* [JSONPlaceholder](https://github.com/typicode/jsonplaceholder)  
 
 ### User Interface ###
 * [Semantic UI](http://semantic-ui.com/)  
