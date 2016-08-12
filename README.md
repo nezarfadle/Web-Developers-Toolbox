@@ -35,6 +35,8 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
 * [Silm](http://www.slimframework.com/)  
 
 ### API Documentation  ###
+* [API Description Languages: Which Is The Right One For Me? ( YouTube Video )](https://www.youtube.com/watch?v=BpjZqPBQjvs)  
+* [API First: Design First, Prototype First with RAML ( YouTube Video )](https://www.youtube.com/watch?v=Kz2JFANLWOQ)  
 * [RAML](http://raml.org/)  
  * [RAML 100 Tutorial](http://raml.org/developers/raml-100-tutorial#step-introduction)
  * [RAML 200 Tutorial](http://raml.org/developers/raml-200-tutorial#step-introduction)
@@ -42,6 +44,7 @@ CIS Security Benchmarks provides cost-effective, consensus-based and internation
  * [RAML2HTML ( Tool )](https://github.com/raml2html/raml2html)
  * [Delight-Driven Development For APIs ( YouTube Video )](https://www.youtube.com/watch?v=_RI5iZgOtis)
  * [RAML RESTful API Modeling Language ( YouTube Video )](https://www.youtube.com/watch?v=5o_nExedezw)
+ * [Testing APIs with RAML ( Tutorial )](https://www.sitepoint.com/testing-apis-raml/)
  
 
 ### Fake REST API Servers ###
